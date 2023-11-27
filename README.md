@@ -1,5 +1,10 @@
 ## Install stripe package in project
 <p>composer require stripe/stripe-php</p>
+
+## Install Push ok package in project
+<p>composer require edamov/pushok<br>
+all push ok configration available in IosAndroidPushController Controller file</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
